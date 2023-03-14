@@ -12,5 +12,4 @@
 1. git checkout NameOfBranch: to move to the branch NameOfBranch
 1. git commit -am "commit message" : to save on stage and commit
 1. git push origin main (main is the branch where you wanna push your modificaton) : to push you modification from Git to GitHub
-1. git pull origin main (main is the branch we wanna pull from) : to pull a file from main(GitHub) to Git 
-1. to delete after
+1. git pull origin main (main is the branch we wanna pull from) : to pull a file from main(GitHub) to Git
